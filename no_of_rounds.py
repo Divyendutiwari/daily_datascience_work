@@ -1,0 +1,5 @@
+n=int(input("enter the number of people: "))
+capacity=int(input("enter the capacity of each round: "))
+s=lambda n,capacity: (n//capacity)+(n%capacity>0)
+rounds=s(n,capacity)
+print(f"The number of rounds required is: {rounds}")
