@@ -1,0 +1,15 @@
+import numpy as np
+arr=np.array([10, 20, 30, 40, 50])
+print(arr)
+print (arr.shape)
+arr.reshape(5,1)
+print(arr)
+arr2=np.array([[1,2,3],[4,5,6]])
+print(arr2.shape)
+arr2.reshape(3,2)
+print(arr2)
+arr3=np.ones((2,3,4))
+print(arr3)
+print(np.eye(4))
+print(arr.size)
+##and all the other vectorized operations are easy as well
