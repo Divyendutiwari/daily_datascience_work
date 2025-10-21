@@ -1,0 +1,12 @@
+import numpy as np
+arr=np.array([10, 20, 30, 40, 50])
+arr2=np.array([1,2,3,4,5])
+print(arr)
+print(np.sqrt(arr))
+print(np.exp(arr))
+print(np.log(arr))
+print(np.sin(arr))
+print(arr + arr2)
+print(arr - arr2)
+print(arr * arr2)
+print(arr / arr2)
