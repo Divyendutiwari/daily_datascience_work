@@ -1,0 +1,13 @@
+Region,Category,Sales,Profit,Units,Month
+North,Electronics,12000,2300,80,January
+South,Home,9500,1800,60,January
+East,Fashion,7800,1500,50,January
+West,Electronics,11200,2100,70,January
+North,Home,10500,2000,65,February
+South,Fashion,8900,1700,55,February
+East,Electronics,13500,2500,85,February
+West,Home,9700,1900,60,February
+North,Fashion,8800,1600,52,March
+South,Electronics,12800,2400,78,March
+East,Home,9400,1800,62,March
+West,Fashion,8100,1500,48,March
